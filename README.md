@@ -36,12 +36,13 @@ secom-feature-selection/
 
 ---
 
-## 🚀 How to Run (One-Click Setup)
+## 🚀 How to Run
 
 ### 1️⃣ Clone the repository
+
 ```bash
-git clone https://github.com/YOUR_USERNAME/secom-feature-selection.git
-cd secom-feature-selection
+git clone https://github.com/IqbalNazeri/SECOM-Yield-Analysis-FYP.git
+cd SECOM-Yield-Analysis-FYP
 
 pip install -r requirements.txt
 
