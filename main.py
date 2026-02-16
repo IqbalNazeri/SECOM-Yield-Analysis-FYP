@@ -27,7 +27,7 @@ from imblearn.over_sampling import SMOTE
 # 1. PATH CONFIGURATION
 # ==========================================
 BASE_PATH = os.path.dirname(os.path.abspath(__file__))
-DATA_PATH = os.path.join(BASE_PATH, "data")
+DATA_PATH = BASE_PATH
 OUTPUT_PATH = os.path.join(BASE_PATH, "output")
 FS_PATH = os.path.join(OUTPUT_PATH, "feature_selection")
 MODEL_PATH = os.path.join(OUTPUT_PATH, "models")
